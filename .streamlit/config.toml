@@ -1,0 +1,12 @@
+[server]
+port = 8501
+enableCORS = false
+sslCertFile = 'cert.pem'
+sslKeyFile = 'key.pem'
+
+[browser]
+serverAddress = "localhost"
+gatherUsageStats = false
+
+[runner]
+magicEnabled = false
