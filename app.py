@@ -420,5 +420,5 @@ with tab2:
                             st.rerun()
 
 # 页脚信息
-st.markdown("---")
-st.caption("微博爬虫管理界面 - 基于 dataabc/weibo-crawler 开发")
+# st.markdown("---")
+# st.caption("微博爬虫管理界面 - 基于 dataabc/weibo-crawler 开发")
