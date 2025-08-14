@@ -1,12 +1,12 @@
 [server]
-port = 8501
+port = 18443
 enableCORS = true
 sslCertFile = 'cert.pem'
 sslKeyFile = 'key.pem'
 baseUrlPath = 'weibo-plugin'
 
 [browser]
-serverAddress = "callfansai.cn:18443"
+serverAddress = "callfansai.cn"
 gatherUsageStats = false
 
 [runner]
