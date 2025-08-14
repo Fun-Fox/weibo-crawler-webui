@@ -2,6 +2,7 @@
 log/
 weibo/
 *.zip
+.idea/
 # Created by https://www.toptal.com/developers/gitignore/api/python,jetbrains,visualstudiocode,windows,macos,linux
 # Edit at https://www.toptal.com/developers/gitignore?templates=python,jetbrains,visualstudiocode,windows,macos,linux
 
